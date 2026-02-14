@@ -1,5 +1,7 @@
 # Projeto_pizzaria
 
+Este projeto consiste em um catálogo interativo de produtos para uma pizzaria, desenvolvido ultilizando HTML5, CSS3 e JavaScript. O site apresenta um design responsivo, permitindo que os usuários visualizem as opçôes de pizzas, consultem os preços e adicione itens ao carrinho.
+
 - Pizzaria
 
 Desktop
